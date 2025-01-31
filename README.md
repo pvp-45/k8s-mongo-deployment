@@ -44,7 +44,7 @@ This project marks my first experience with Kubernetes. Using **Minikube**, **ku
 
     ```bash
     http://<minikube-ip>:30100
-Replace <minikube-ip> with the output of minikube ip.
+Replace <minikube-ip> with the output of "minikube ip"
 
 ---   
 
